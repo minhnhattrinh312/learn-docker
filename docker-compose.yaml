@@ -4,7 +4,7 @@ services:
     image: nhat/test_flask
     build:
       context: .
-      dockerfile: Dockerfile
+      dockerfile: Dockerfile_flask
     ports: 
       - "8000:5000"
 

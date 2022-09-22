@@ -1,3 +1,4 @@
 *.md
 __pycache__
 .history
+.git
